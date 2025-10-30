@@ -1,0 +1,6 @@
+*.ipynb
+/data/
+/dataset/
+/experiments/
+/__pycache__/
+*.onnx
